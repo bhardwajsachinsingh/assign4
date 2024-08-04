@@ -1,0 +1,16 @@
+section{
+    text-align: center;
+    font-style: italic;
+    font-weight:bolder;
+    margin: 1.8rem;
+    border-radius: 30px;
+    border: 5px solid pink;
+    padding: 1.8rem;
+    background-color: aliceblue;
+    color:darkred;
+}
+section >h2{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
